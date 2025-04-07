@@ -1,0 +1,4 @@
+<div class="position-absolute bottom-0 start-50 translate-middle-x">
+        <button class="btn btn-primary me-md-2" type="button">Exist</button>
+        <button class="btn btn-primary" type="button">Next</button>
+    </div>
